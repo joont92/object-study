@@ -1,4 +1,4 @@
-package _2_Movie.step1
+package _2_Movie.step2
 
 import java.time.DayOfWeek
 import java.time.LocalTime

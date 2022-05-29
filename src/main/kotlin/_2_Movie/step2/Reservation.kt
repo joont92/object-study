@@ -1,4 +1,4 @@
-package _2_Movie.step1
+package _2_Movie.step2
 
 class Reservation(
     private val customer: Customer,
